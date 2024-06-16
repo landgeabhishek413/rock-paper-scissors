@@ -4,6 +4,9 @@ A simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript.
 
 [Live Demo](https://landgeabhishek413.github.io/rock-paper-scissors/).
 
+![Screenshot from 2024-06-16 10-34-14](https://github.com/landgeabhishek413/rock-paper-scissors/assets/110760264/1813ddbe-2e28-41be-9887-0a120f8454fc)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
